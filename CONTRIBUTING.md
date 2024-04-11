@@ -1,1 +1,3 @@
-# Jacob Johnson is the creator of this repository
+# Contributors
+
+Jacob Johnson created this repository, and contributed to it.
