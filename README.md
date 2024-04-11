@@ -194,3 +194,10 @@ Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+# Hypothetical Module
+Created by Patricia Madrid.
+
+Why use Apache License 2.0?
+
+It permits you to make derivative works using the licensed software and to use, alter, and distribute it without needing the derivative works to have the same license.
